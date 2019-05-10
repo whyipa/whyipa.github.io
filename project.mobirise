@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhyIPA",
-    "currentPage": "automated-data-management.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,10 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "cookiesAlert": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-114985921-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-114985921-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
